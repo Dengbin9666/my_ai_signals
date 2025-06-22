@@ -1,1 +1,1 @@
-# my_ai_signals
+# seed_crypto_santiment_ADC
